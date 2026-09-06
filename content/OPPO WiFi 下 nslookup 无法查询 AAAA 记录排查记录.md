@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-06T16:00:16.676Z
+modified: 2026-09-06T16:14:33.188Z
 ---
 
 ## 问题的起源
@@ -63,6 +63,10 @@ nslookup -type=AAAA www.sina.com.cn
 直接 ping 一个 IPv6 字面量，只验证 IPv6 地址、路由和 ICMPv6 的一部分链路；它绕过了 DNS。访问 IPv6 网站则还依赖：
 
 ```mermaid
+---
+config:
+  theme: neutral
+---
 graph LR
     A[DNS AAAA] --> B[获得 IPv6 地址]
     B --> C[IPv6 TCP]
