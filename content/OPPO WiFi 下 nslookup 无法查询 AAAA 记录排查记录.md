@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-06T10:38:16.570Z
+modified: 2026-09-06T16:00:16.676Z
 ---
 
 ## 问题的起源
@@ -75,19 +75,10 @@ graph LR
 
 ```sh
 
-# OpenWrt：只抓 OPPO 的普通 DNS 流量
+# OpenWrt：只抓某个IP的普通 DNS 流量
 
 tcpdump -ni br-lan -vv 'host <OPPO_IP> and port 53'
 
-# 若怀疑 Private DNS / DoT
-
-tcpdump -ni br-lan -vv 'host <OPPO_IP> and port 853'
-
-# 手机：分别查询 A 与 AAAA
-
-nslookup -type=A google.com 1.1.1.1
-
-nslookup -type=AAAA google.com 1.1.1.1
 ```
 
 另，国内一个很好的测试ipv6的网站 https://testipv6.cn/
