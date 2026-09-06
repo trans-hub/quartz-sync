@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-06T16:14:33.188Z
+modified: 2026-09-06T16:18:01.643Z
 ---
 
 ## 问题的起源
@@ -65,7 +65,14 @@ nslookup -type=AAAA www.sina.com.cn
 ```mermaid
 ---
 config:
-  theme: neutral
+  theme: base
+  themeVariables:
+    primaryColor: "#ffffff"
+    primaryTextColor: "#000000"
+    primaryBorderColor: "#000000"
+    lineColor: "#000000"
+    secondaryColor: "#eeeeee"
+    tertiaryColor: "#ffffff"
 ---
 graph LR
     A[DNS AAAA] --> B[获得 IPv6 地址]
