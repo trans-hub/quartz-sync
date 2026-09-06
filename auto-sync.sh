@@ -1,12 +1,9 @@
 #!/bin/bash
-
 export NVM_DIR="/root/.nvm"
 source "$NVM_DIR/nvm.sh"
 
-cd /root/quartz
+cd /root/quartz || exit 1
 
-# 拉取最新代码
-git pull origin main
+git pull --ff-only origin main || exit 1
 
-# 重新构建
-npx quartz build 
+npx quartz build
