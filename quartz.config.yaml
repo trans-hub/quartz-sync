@@ -111,7 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -267,7 +267,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
