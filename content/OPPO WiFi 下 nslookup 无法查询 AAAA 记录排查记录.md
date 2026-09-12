@@ -1,7 +1,12 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-06T16:18:01.643Z
+modified: 2026-09-12T09:52:44.040Z
+published: 2026-09-12T09:52:44.040Z
+tags:
+  - sing-box
+  - ipv6
+  - nslookup
 ---
 
 ## 问题的起源
@@ -93,5 +98,3 @@ tcpdump -ni br-lan -vv 'host <OPPO_IP> and port 53'
 ```
 
 另，国内一个很好的测试ipv6的网站 https://testipv6.cn/
-
-#sing-box #ipv6 #nslookup
