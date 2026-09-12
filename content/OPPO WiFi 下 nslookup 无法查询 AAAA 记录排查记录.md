@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-12T12:45:59.301Z
-published: 2026-09-12T12:45:59.301Z
+modified: 2026-09-12T12:53:14.084Z
+published: 2026-09-12T12:53:14.084Z
 tags:
   - sing-box
   - ipv6
@@ -61,9 +61,7 @@ nslookup -type=AAAA www.sina.com.cn
 
 这一层面的结论比“查询失败”本身更可靠：没有请求离开终端，上游自然无从修复。
 
-## 学到的几件事
-
-### 能 ping IPv6 地址，不等于 AAAA 解析正常
+## 能 ping IPv6 地址，不等于 AAAA 解析正常
 
 直接 ping 一个 IPv6 字面量，只验证 IPv6 地址、路由和 ICMPv6 的一部分链路；它绕过了 DNS。访问 IPv6 网站则还依赖：
 
