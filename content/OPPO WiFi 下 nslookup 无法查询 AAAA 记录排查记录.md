@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-12T09:52:44.040Z
-published: 2026-09-12T09:52:44.040Z
+modified: 2026-09-12T12:45:59.301Z
+published: 2026-09-12T12:45:59.301Z
 tags:
   - sing-box
   - ipv6
@@ -68,17 +68,6 @@ nslookup -type=AAAA www.sina.com.cn
 直接 ping 一个 IPv6 字面量，只验证 IPv6 地址、路由和 ICMPv6 的一部分链路；它绕过了 DNS。访问 IPv6 网站则还依赖：
 
 ```mermaid
----
-config:
-  theme: base
-  themeVariables:
-    primaryColor: "#ffffff"
-    primaryTextColor: "#000000"
-    primaryBorderColor: "#000000"
-    lineColor: "#000000"
-    secondaryColor: "#eeeeee"
-    tertiaryColor: "#ffffff"
----
 graph LR
     A[DNS AAAA] --> B[获得 IPv6 地址]
     B --> C[IPv6 TCP]
