@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-27T10:26:13.383Z
-modified: 2026-09-12T09:52:43.418Z
-published: 2026-09-12T09:52:43.418Z
+modified: 2026-09-13T04:40:32.895Z
+published: 2026-09-13T04:40:32.895Z
 tags:
   - math
   - finance
@@ -16,7 +16,7 @@ tags:
 - 毛利率下降很少
 - 但毛利大幅下滑
 
-这背后隐藏着什么数学洞察？
+这藏着什么数学Insight？
 
 ## 数学推导
 
