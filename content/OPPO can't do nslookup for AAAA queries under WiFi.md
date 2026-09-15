@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-09-06T05:28:39.057Z
-modified: 2026-09-12T12:53:14.084Z
-published: 2026-09-12T12:53:14.084Z
+modified: 2026-09-15T09:49:56.393Z
+published: 2026-09-15T09:49:56.393Z
 tags:
   - sing-box
-  - ipv6
   - nslookup
+  - networking
 ---
 
 ## 问题的起源
