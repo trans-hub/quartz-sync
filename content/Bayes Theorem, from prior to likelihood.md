@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T09:58:02.118Z
-modified: 2026-09-27T10:39:05.979Z
-published: 2026-09-27T10:39:05.979Z
+created: 2026-09-27T11:03:26.940Z
+modified: 2026-09-27T11:03:26.997Z
+published: 2026-09-27T11:03:26.997Z
 tags:
   - math
   - statistics
@@ -301,24 +301,58 @@ $$
 
 - **Sensitivity敏感度**就是特征值是否在该（预测/标签的人群/假设）中普遍存在，Gay里面肌肉男的普遍程度越高，敏感度就越高，在这么多判断Gay的（特征/证据）里面，选择特征值越高的，判断越容易准确，所以这个测试就越敏感。
 
-- 如果（预测/标签的人群/假设）不成立，同样存在这个（特征/证据）的比例肯定越低越好，如果不是Gay都是肌肉男，那么这个测试就没啥意义了。因为敏感度越大越好，特异性我们也想越大越好，所以，**特异度**被定义为（1-这个比例）
+- 如果（预测/标签的人群/假设）不成立，同样存在这个（特征/证据）的比例肯定越低越好，如果其他男人不是Gay的很多都是肌肉男，那么这个测试就被削弱了。这个数字我们叫**假阳性**。大家都喜欢大，因为敏感度越大越好，所以，我们造了个词**特异度**，定义为（1-**假阳性**）
 
 - 可以发现，上面的LR，就是**敏感度**除以（1-**特异度**）
 
-### 亚里斯多德的三段论
+### 延申：亚里斯多德的三段论
 
 > [!info] 逻辑三段论
 > 所有人都会死。\
 > 苏格拉底是人。\
 > 所以苏格拉底会死。
 
-Jaynes说过，逻辑规则不是另一套东西，而是贝叶斯概率在极端确定情况下的表现。
+Jaynes说过[^4]，逻辑规则不是另一套东西，而是贝叶斯概率在极端确定情况下的表现。
 
 如果假阳性不存在，也就是特异度100%的情况下，证据就能无瑕疵地100%推出结论。所谓假阳性就是替代的情况/推论并不可能出现这样的证据。在这一个极端情况，普通男人没有肌肉，于是所有肌肉男都是Gay，因为没有假阳性。
 
 由于LR的分母就是假阳性，所以LR直接上升到无穷大。为什么说抓奸在床，而不是抓奸在店。因为在床是没有假阳性的。直接可以推出三段论。
 
+$$
+\text{Posterior Odds} = \text{Prior Odds} \times \frac{\text{Sensitivity}}{\text{False Positive Rate}} = \text{Prior Odds} \times \frac{\text{Sensitivity}}{1 - \text{Specificity}}
+$$
+
+如果：
+
+$$
+\text{FP} = 0
+$$
+
+则：
+
+$$
+LR = \frac{\text{Sensitivity}}{\text{FP}} = \infty
+$$
+
+那么：
+
+$$
+\text{Posterior Odds} = \infty
+$$
+
+于是：
+
+$$
+P(Hypothesis|Evidence) = 1
+$$
+
 读到这里就可以发现，敏感度和特异度的不一样，敏感度就算100%也不能把LR推到无穷。即使所有Gay都是肌肉男，你也无法说，看见肌肉男就是Gay。这是无效推理，因为其他男人也可以是肌肉男。让我们把敏感度拉满，也就是猫不会死，狗不会死。
+
+> [!fail] 无效推理
+>
+> - 所有Gay都是肌肉男。
+> - 汤姆是肌肉男。
+> - 所以汤姆是Gay
 
 > [!fail] 无效推理
 >
@@ -326,22 +360,9 @@ Jaynes说过，逻辑规则不是另一套东西，而是贝叶斯概率在极�
 > - 苏格拉底是人。
 > - 所以苏格拉底会死
 
-因为存在苏格拉底同时是人，和不死人的情况。单纯看见所有死的都是人，并无法推理出苏格拉底一定会死。
-
-\[ Posterior\ Odds = Prior\ Odds\times LR ]
-
-如果：
-
-\[ LR=\infty ]
-
-那么：
-
-\[ Posterior\ Odds=\infty ]
-
-于是：
-
-\[ P(H|E)=1 ]
+留意这里和上面的区别，仅仅是第一句话反了。因为存在苏格拉底同时是人，但不会死的情况，和普通男人都可能是肌肉男这个情况一样。这句话只是单纯看见死者里面都是人，例如某甲，某乙，并无法推理出苏格拉底一定会死。只能说观察到这个事实，让苏格拉底会死这个事件发生，**更有可能**。这仅仅是普通的贝叶斯推理。
 
 [^1]: Tom Chivers. (2023). _Everything is Predictable: How Bayesian Statistics Explain Our World_. Profile Books.
 [^2]: Will Kurt. (2019). _Bayesian Statistics the Fun Way_. No Starch Press.
 [^3]: NHTSA (2024). _Occupant Protection in Passenger Vehicles: 2022 Data_ (DOT HS 813 573). <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573>
+[^4]: E. T. Jaynes. (2003). _Probability Theory: The Logic of Science_. Cambridge University Press.
