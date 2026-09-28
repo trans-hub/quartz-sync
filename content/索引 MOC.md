@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T10:42:02.766Z
-modified: 2026-09-28T04:53:19.915Z
-published: 2026-09-28T04:53:19.915Z
+modified: 2026-09-28T05:00:50.576Z
+published: 2026-09-28T05:00:50.576Z
 ---
 
 这是你的知识库入口。点击下方链接进入各主题：
@@ -17,3 +17,5 @@ published: 2026-09-28T04:53:19.915Z
 - 用 `#标签` 分类，例如 #灵感
 - 按 `Ctrl+P` 打开命令面板
 - Many callouts [available](https://obsidian.md/help/callouts)
+
+✉️ samsont@live.cn
