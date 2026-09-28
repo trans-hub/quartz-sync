@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T10:42:02.766Z
-modified: 2026-09-13T04:42:44.336Z
-published: 2026-09-13T04:42:44.336Z
+modified: 2026-09-28T04:28:48.356Z
+published: 2026-09-28T04:28:48.356Z
 ---
 
 这是你的知识库入口。点击下方链接进入各主题：
 
 - [[Readings]] — 记录读过的书
 - [[Random thoughts]] — 随手记录的想法与笔记
+- [[Shopping knowledges]] 复购好物心得
 
 ## 使用提示
 
