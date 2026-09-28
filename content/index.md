@@ -2,12 +2,21 @@
 publish: true
 title: Welcome to my Quartz garden
 created: 2026-09-22T15:17:21.622Z
-modified: 2026-09-22T15:18:36.980Z
-published: 2026-09-22T15:18:36.980Z
+modified: 2026-09-28T05:02:06.869Z
+published: 2026-09-28T05:02:06.869Z
 ---
 
-这是知识库入口。点击下方链接进入各主题：
+这是你的知识库入口。点击下方链接进入各主题：
 
-- [[Readings]]  记录读过的书
-- [[Random thoughts]]  随手记录的想法与笔记
-- [[Shopping knowledges]]  一些购物经验
+- [[Readings]] — 记录读过的书
+- [[Random thoughts]] — 随手记录的想法与笔记
+- [[Shopping knowledges]] 复购好物心得
+
+## 使用提示
+
+- 用 `[[笔记名]]` 新建/跳转到笔记
+- 用 `#标签` 分类，例如 #灵感
+- 按 `Ctrl+P` 打开命令面板
+- Many callouts [available](https://obsidian.md/help/callouts)
+
+✉️ samsont@live.cn
