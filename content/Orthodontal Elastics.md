@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T07:00:34.571Z
-modified: 2026-09-13T12:41:48.994Z
-published: 2026-09-13T12:41:48.994Z
+modified: 2026-10-04T03:23:50.774Z
+published: 2026-10-04T03:23:50.774Z
 tags:
   - statistics
   - orthodontics
@@ -20,6 +20,16 @@ tags:
 | 150g(5.3oz)       | 30个 |
 | 不合格(<5oz or >6oz) | 7个  |
 
+## Zebra
+
+Zebra在拉长37mm的条件下，简单测试20个，几乎达不到我的预期力量。
+
+| 拉力规格              | 数量  |
+| ----------------- | --- |
+| 170g(6oz)         | 2个  |
+| 150g(5.3oz)       | 6个  |
+| 不合格(<5oz or >6oz) | 12个 |
+
 # 替代品
 
-现在无法找到替代品，同厂的Ormco的Zebra，拉力只有5oz，American Othodontics的Panda也是非常不稳定
+现在无法找到替代品，American Othodontics的Panda也是非常不稳定
