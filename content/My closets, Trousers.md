@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T10:07:31.380Z
-modified: 2026-10-06T14:30:02.848Z
-published: 2026-10-06T14:30:02.848Z
+modified: 2026-10-06T14:31:37.519Z
+published: 2026-10-06T14:31:37.519Z
 ---
 
 | 图片                                                                             | 品名                   | 类型  |
@@ -15,6 +15,7 @@ published: 2026-10-06T14:30:02.848Z
 
 裤子总数：5 件
 
-See also:
+The series:
 [[My closets, T and Shorts]]
 [[My closets, Long]]
+[[My closets, Trousers]]

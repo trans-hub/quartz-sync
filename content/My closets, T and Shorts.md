@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T04:05:18.384Z
-modified: 2026-10-06T13:11:38.468Z
-published: 2026-10-06T13:11:38.468Z
+modified: 2026-10-06T14:31:18.011Z
+published: 2026-10-06T14:31:18.011Z
 ---
 
 | 图片 | 品名 | 类型 |
@@ -21,3 +21,8 @@ published: 2026-10-06T13:11:38.468Z
 
 上衣总数：7 件
 裤子总数：4 件
+
+The series:
+[[My closets, T and Shorts]]
+[[My closets, Long]]
+[[My closets, Trousers]]
