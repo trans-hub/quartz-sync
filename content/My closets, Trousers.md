@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T10:07:31.380Z
-modified: 2026-10-06T10:08:10.263Z
-published: 2026-10-06T10:08:10.263Z
+modified: 2026-10-06T14:30:02.848Z
+published: 2026-10-06T14:30:02.848Z
 ---
 
 | 图片                                                                             | 品名                   | 类型  |
@@ -14,3 +14,7 @@ published: 2026-10-06T10:08:10.263Z
 | <img src="/images/clothes/trousers/1791268090631-59260112.jpg" width="300">    | 黑灰色牛仔裤，直筒            | 裤子  |
 
 裤子总数：5 件
+
+See also:
+[[My closets, T and Shorts]]
+[[My closets, Long]]
