@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T04:05:18.384Z
-modified: 2026-10-06T14:31:18.011Z
-published: 2026-10-06T14:31:18.011Z
+modified: 2026-10-06T15:11:26.737Z
+published: 2026-10-06T15:11:26.737Z
 ---
 
 | 图片 | 品名 | 类型 |
@@ -24,5 +24,5 @@ published: 2026-10-06T14:31:18.011Z
 
 The series:
 [[My closets, T and Shorts]]
-[[My closets, Long]]
+[[My closets, Long Tops]]
 [[My closets, Trousers]]
