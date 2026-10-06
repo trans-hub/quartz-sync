@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-10-06T16:39:16.330Z
-published: 2026-10-06T16:39:16.330Z
+modified: 2026-10-06T16:42:42.980Z
+published: 2026-10-06T16:42:42.980Z
 ---
 
 | 图片                                                                         | 品名             | 类型  |
@@ -22,6 +22,7 @@ published: 2026-10-06T16:39:16.330Z
 | <img src="/images/clothes/Long/1791290132641--1038448374.jpg" width="300"> | 白色半拉链摇粒绒衣      | 抓绒衣 |
 | <img src="/images/clothes/Long/1791291513134-1161430549.jpg" width="300">  | 米白色高领麻花针织毛衣    | 毛衣  |
 | <img src="/images/clothes/Long/1791301371185-361505418.jpg" width="300">   | 藏青色圆领横纹针织毛衣    | 毛衣  |
+![[images/clothes/Long/1791301371185-361505418.jpg]]
 
 The series:
 [[My closets, T and Shorts]]
