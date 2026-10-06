@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-10-06T16:36:53.517Z
-published: 2026-10-06T16:36:53.517Z
+modified: 2026-10-06T16:39:16.330Z
+published: 2026-10-06T16:39:16.330Z
 ---
 
 | 图片                                                                         | 品名             | 类型  |
@@ -21,9 +21,12 @@ published: 2026-10-06T16:36:53.517Z
 | <img src="/images/clothes/Long/1791290031452--393235633.jpg" width="300">  | 卡其色三防冲锋衣（内有羽绒） | 冲锋衣 |
 | <img src="/images/clothes/Long/1791290132641--1038448374.jpg" width="300"> | 白色半拉链摇粒绒衣      | 抓绒衣 |
 | <img src="/images/clothes/Long/1791291513134-1161430549.jpg" width="300">  | 米白色高领麻花针织毛衣    | 毛衣  |
-| ![[1791301371185-361505418.jpg]]                                           | 藏青色圆领横纹针织毛衣    | 毛衣  |
+| <img src="/images/clothes/Long/1791301371185-361505418.jpg" width="300">   | 藏青色圆领横纹针织毛衣    | 毛衣  |
 
 The series:
 [[My closets, T and Shorts]]
 [[My closets, Long Tops]]
 [[My closets, Trousers]]
+
+Note:
+由于Quartz Sync不支持html，所以插入图片需要首先用!\[\[]]的方法
