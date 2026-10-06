@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T04:05:18.384Z
-modified: 2026-10-06T04:17:24.109Z
-published: 2026-10-06T04:17:24.109Z
+modified: 2026-10-06T04:19:11.397Z
+published: 2026-10-06T04:19:11.397Z
 ---
 
 | 图片                                                                                                             | 品名                  | 类型  |
@@ -17,6 +17,7 @@ published: 2026-10-06T04:17:24.109Z
 | <img src="/images/clothes/tb_image_share_1791254806321.png" width="300">                                       | 黑色热带植物印花短裤          | 裤子  |
 | <img src="/images/clothes/tb_image_share_1791254825970.png" width="300">                                       | 藏青色几何图案短裤           | 裤子  |
 | <img src="/images/clothes/tb_image_share_1791259199234.png" width="300">                                       | 白色牛仔短裤              | 裤子  |
+| <img src="/images/clothes/tb_image_share_1791259199234.png" width="300">                                       |                     |     |
 
 上衣总数：7 件
 裤子总数：3 件
