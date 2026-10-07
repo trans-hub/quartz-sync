@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:10.093Z
-modified: 2026-10-07T07:52:04.158Z
-published: 2026-10-07T07:52:04.158Z
+modified: 2026-10-07T07:52:31.123Z
+published: 2026-10-07T07:52:31.123Z
 ---
 
 | 图片                                                                                                                      | 品名                   | 类型  |
@@ -22,8 +22,3 @@ The series:
 [[My closets, T and Shorts]]
 [[My closets, Long Tops]]
 [[My closets, Trousers]]
-
-![[images/clothes/trousers/Screenshot_2026-10-07-14-32-46-96_3d7a4bdabf560f09a0efab7b32c38b70.jpg]]
-![[images/clothes/T&Shorts/1791356309149-154776548.jpg]]
-![[images/clothes/trousers/1791354357332-1596524178.jpg]]
-![[images/clothes/trousers/1791354436633-1203437688.jpg]]
