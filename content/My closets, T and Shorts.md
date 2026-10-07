@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:10.041Z
-modified: 2026-10-07T07:47:41.415Z
-published: 2026-10-07T07:47:41.415Z
+modified: 2026-10-07T07:54:22.672Z
+published: 2026-10-07T07:54:22.672Z
 ---
 
 | 图片                                                                                        | 品名                                 | 类型  |
@@ -22,7 +22,7 @@ published: 2026-10-07T07:47:41.415Z
 | <img src="/images/clothes/T&Shorts/1791356309149-154776548.jpg" width="300">              | 深蓝色松紧腰平纹短裤，宽松直筒，及膝上                | 裤子  |
 
 上衣总数：7 件
-裤子总数：5 件
+裤子总数：6 件
 
 The series:
 [[My closets, T and Shorts]]
