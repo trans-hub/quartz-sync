@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:10.093Z
-modified: 2026-10-07T07:52:31.123Z
-published: 2026-10-07T07:52:31.123Z
+modified: 2026-11-06T10:32:21.483Z
+published: 2026-11-06T10:32:21.483Z
 ---
 
 | 图片                                                                                                                      | 品名                   | 类型  |
@@ -22,3 +22,6 @@ The series:
 [[My closets, T and Shorts]]
 [[My closets, Long Tops]]
 [[My closets, Trousers]]
+
+Outfits:
+[Muse generated outfits](https://muse.onher.top/outfits/)

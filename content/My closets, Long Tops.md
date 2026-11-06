@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-10-11T03:42:57.064Z
-published: 2026-10-11T03:42:57.064Z
+modified: 2026-11-06T10:32:09.951Z
+published: 2026-11-06T10:32:09.951Z
 ---
 
 | 图片                                                                         | 品名             | 类型  |
@@ -28,6 +28,9 @@ The series:
 [[My closets, T and Shorts]]
 [[My closets, Long Tops]]
 [[My closets, Trousers]]
+
+Outfits:
+[Muse generated outfits](https://muse.onher.top/outfits/)
 
 Note:
 由于Quartz Sync不支持html，所以插入图片需要首先用!\[\[]]的方法

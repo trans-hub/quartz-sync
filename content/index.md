@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to my Quartz garden
 created: 2026-10-06T16:15:09.629Z
-modified: 2026-11-01T08:15:34.051Z
-published: 2026-11-01T08:15:34.051Z
+modified: 2026-11-06T10:30:34.230Z
+published: 2026-11-06T10:30:34.230Z
 ---
 
 这是你的知识库入口。点击下方链接进入各主题：
@@ -12,6 +12,7 @@ published: 2026-11-01T08:15:34.051Z
 - [[Random thoughts]] — 随手记录的想法与笔记
 - [[Shopping knowledges]] 复购好物心得
 - [[Useful Linux commands]] 常用 Linux 命令速查
+- [Piano tuning](https://muse.onher.top/piano/)
 
 ## 使用提示
 
