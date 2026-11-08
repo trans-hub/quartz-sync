@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T13:49:31.126Z
-published: 2026-11-08T13:49:31.126Z
+modified: 2026-11-08T14:14:45.944Z
+published: 2026-11-08T14:14:45.944Z
 ---
 
 | 图片                                                                            | 品名             | 类型  |
@@ -14,7 +14,7 @@ published: 2026-11-08T13:49:31.126Z
 | <img src="/images/clothes/Long/1791289411519-1333854895.jpg" width="300">     | 黑色休闲西装外套       | 西装  |
 | <img src="/images/clothes/Long/1791289589716--1862443055.jpg" width="300">    | 黑色棒球夹克（白色条纹）   | 夹克  |
 | <img src="/images/clothes/Long/1791289626522-301185029.jpg" width="300">      | 卡其色绗羽绒马甲       | 马甲  |
-| <img src="/images/clothes/Long/1791289832607--210683171.jpg" width="300">     | 白色连帽卫衣(薄款非加绒)  | 卫衣  |
+| <img src="/images/clothes/Long/IMG20261108215312-studio.png" width="300">    | 白色连帽卫衣(薄款非加绒)  | 卫衣  |
 | <img src="/images/clothes/Long/1791289881734-923598237.jpg" width="300">      | 白色磨毛法兰绒衬衫      | 衬衫  |
 | <img src="/images/clothes/Long/1791289957863-1826028682.jpg" width="300">     | 白色长袖牛津纺衬衫      | 衬衫  |
 | <img src="/images/clothes/Long/1791289980409-2046345433.jpg" width="300">     | 迷彩印花防晒皮肤衣      | 防晒衣 |
