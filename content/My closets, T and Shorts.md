@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:10.041Z
-modified: 2026-11-08T14:13:29.839Z
-published: 2026-11-08T14:13:29.839Z
+modified: 2026-11-08T14:18:12.144Z
+published: 2026-11-08T14:18:12.144Z
 ---
 
 | 图片                                                                                        | 品名                                 | 类型   |
@@ -14,7 +14,7 @@ published: 2026-11-08T14:13:29.839Z
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791255026951.png" width="300">         | 深藏青短袖衬衫，轻薄宽松，胸袋                    | 衬衣   |
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791257212695.png" width="300">         | 白色短袖Oxford，纽扣领，小黑色刺绣，casual/preppy | 衬衣   |
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791257264264.png" width="300">         | 白色无袖背心，胸口很小黑色文字                    | 上衣   |
-| ![[images/clothes/T&Shorts/IMG20261108215653-studio.png]]                                 | 粉色格纹短袖衬衫，左胸贴袋                      | 衬衣   |
+| <img src="/images/clothes/T&Shorts/IMG20261108215653-studio.png" width="300">             | 粉色格纹短袖衬衫，左胸贴袋                      | 衬衣   |
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791254806321.png" width="300">         | 黑色植物纹短裤                            | 裤子   |
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791254825970.png" width="300">         | 藏青+浅蓝三角几何纹短裤                       | 裤子   |
 | <img src="/images/clothes/T&Shorts/tb_image_share_1791259192348.png" width="300">         | 白色牛仔短裤，长度及膝上                       | 裤子   |
