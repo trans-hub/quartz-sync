@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T10:50:38.066Z
-published: 2026-11-08T10:50:38.066Z
+modified: 2026-11-08T13:47:43.374Z
+published: 2026-11-08T13:47:43.374Z
 ---
 
 | 图片                                                                            | 品名             | 类型  |
 | ----------------------------------------------------------------------------- | -------------- | --- |
-| ![[images/clothes/Long/tb_image_share_1794131382603.png]]                                         | 灰色长袖图案薄T       | T   |
+| ![[images/clothes/Long/tb_image_share_1794131382603.png]] | 灰色长袖图案薄T     | T   |
 | ![[images/clothes/Long/IMG20261108183956-studio.png]]                         | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
 | ![[images/clothes/Long/IMG20261108175512-studio.png]]                         | 炭灰色户外冲锋夹克      | 夹克  |
 | <img src="/images/clothes/Long/1791289201808--925656130.jpg" width="300">     | 黑色长款针织开衫       | 开衫  |
