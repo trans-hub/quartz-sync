@@ -1,19 +1,20 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T09:36:10.929Z
-published: 2026-11-08T09:36:10.929Z
+modified: 2026-11-08T10:50:38.066Z
+published: 2026-11-08T10:50:38.066Z
 ---
 
 | 图片                                                                            | 品名             | 类型  |
 | ----------------------------------------------------------------------------- | -------------- | --- |
-| <img src="/images/clothes/Long/1791293847766--1628016321.jpg" width="300">    | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
-| <img src="/images/clothes/Long/1791289063563--149052830.jpg" width="300">     | 黑色户外冲锋夹克       | 夹克  |
+| ![[images/clothes/Long/tb_image_share_1794131382603.png]]                                         | 灰色长袖图案薄T       | T   |
+| ![[images/clothes/Long/IMG20261108183956-studio.png]]                         | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
+| ![[images/clothes/Long/IMG20261108175512-studio.png]]                         | 炭灰色户外冲锋夹克      | 夹克  |
 | <img src="/images/clothes/Long/1791289201808--925656130.jpg" width="300">     | 黑色长款针织开衫       | 开衫  |
 | <img src="/images/clothes/Long/1791289411519-1333854895.jpg" width="300">     | 黑色休闲西装外套       | 西装  |
 | <img src="/images/clothes/Long/1791289589716--1862443055.jpg" width="300">    | 黑色棒球夹克（白色条纹）   | 夹克  |
 | <img src="/images/clothes/Long/1791289626522-301185029.jpg" width="300">      | 卡其色绗羽绒马甲       | 马甲  |
-| <img src="/images/clothes/Long/1791289832607--210683171.jpg" width="300">     | 白色加绒连帽卫衣       | 卫衣  |
+| <img src="/images/clothes/Long/1791289832607--210683171.jpg" width="300">     | 白色连帽卫衣(薄款非加绒)  | 卫衣  |
 | <img src="/images/clothes/Long/1791289881734-923598237.jpg" width="300">      | 白色磨毛法兰绒衬衫      | 衬衫  |
 | <img src="/images/clothes/Long/1791289957863-1826028682.jpg" width="300">     | 白色长袖牛津纺衬衫      | 衬衫  |
 | <img src="/images/clothes/Long/1791289980409-2046345433.jpg" width="300">     | 迷彩印花防晒皮肤衣      | 防晒衣 |
