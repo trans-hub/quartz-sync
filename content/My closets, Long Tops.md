@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T14:40:19.759Z
-published: 2026-11-08T14:40:19.759Z
+modified: 2026-11-08T14:42:25.102Z
+published: 2026-11-08T14:42:25.102Z
 ---
 
 | 图片                                                          | 品名                         | 类型   |
@@ -33,6 +33,3 @@ The series:
 
 Outfits:
 [Muse generated outfits](https://muse.onher.top/outfits/)
-
-Note:
-由于Quartz Sync不支持html，所以插入图片需要首先用!\[\[]]的方法
