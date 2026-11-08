@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T13:47:43.374Z
-published: 2026-11-08T13:47:43.374Z
+modified: 2026-11-08T13:49:31.126Z
+published: 2026-11-08T13:49:31.126Z
 ---
 
 | 图片                                                                            | 品名             | 类型  |
 | ----------------------------------------------------------------------------- | -------------- | --- |
-| ![[images/clothes/Long/tb_image_share_1794131382603.png]] | 灰色长袖图案薄T     | T   |
-| ![[images/clothes/Long/IMG20261108183956-studio.png]]                         | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
-| ![[images/clothes/Long/IMG20261108175512-studio.png]]                         | 炭灰色户外冲锋夹克      | 夹克  |
+| <img src="/images/clothes/Long/tb_image_share_1794131382603.png" width="300"> | 灰色长袖图案薄T       | T   |
+| <img src="/images/clothes/Long/IMG20261108183956-studio.png" width="300">     | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
+| <img src="/images/clothes/Long/IMG20261108175512-studio.png" width="300">     | 炭灰色户外冲锋夹克      | 夹克  |
 | <img src="/images/clothes/Long/1791289201808--925656130.jpg" width="300">     | 黑色长款针织开衫       | 开衫  |
 | <img src="/images/clothes/Long/1791289411519-1333854895.jpg" width="300">     | 黑色休闲西装外套       | 西装  |
 | <img src="/images/clothes/Long/1791289589716--1862443055.jpg" width="300">    | 黑色棒球夹克（白色条纹）   | 夹克  |
