@@ -1,30 +1,30 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T14:14:45.944Z
-published: 2026-11-08T14:14:45.944Z
+modified: 2026-11-08T14:35:01.475Z
+published: 2026-11-08T14:35:01.475Z
 ---
 
-| 图片                                                                            | 品名             | 类型  |
-| ----------------------------------------------------------------------------- | -------------- | --- |
-| <img src="/images/clothes/Long/tb_image_share_1794131382603.png" width="300"> | 灰色长袖图案薄T       | T   |
-| <img src="/images/clothes/Long/IMG20261108183956-studio.png" width="300">     | 黑色连帽拉链卫衣（黄色内衬） | 卫衣  |
-| <img src="/images/clothes/Long/IMG20261108175512-studio.png" width="300">     | 炭灰色户外冲锋夹克      | 夹克  |
-| <img src="/images/clothes/Long/1791289201808--925656130.jpg" width="300">     | 黑色长款针织开衫       | 开衫  |
-| <img src="/images/clothes/Long/1791289411519-1333854895.jpg" width="300">     | 黑色休闲西装外套       | 西装  |
-| <img src="/images/clothes/Long/1791289589716--1862443055.jpg" width="300">    | 黑色棒球夹克（白色条纹）   | 夹克  |
-| <img src="/images/clothes/Long/1791289626522-301185029.jpg" width="300">      | 卡其色绗羽绒马甲       | 马甲  |
-| <img src="/images/clothes/Long/IMG20261108215312-studio.png" width="300">    | 白色连帽卫衣(薄款非加绒)  | 卫衣  |
-| <img src="/images/clothes/Long/1791289881734-923598237.jpg" width="300">      | 白色磨毛法兰绒衬衫      | 衬衫  |
-| <img src="/images/clothes/Long/1791289957863-1826028682.jpg" width="300">     | 白色长袖牛津纺衬衫      | 衬衫  |
-| <img src="/images/clothes/Long/1791289980409-2046345433.jpg" width="300">     | 迷彩印花防晒皮肤衣      | 防晒衣 |
-| <img src="/images/clothes/Long/1791290005942-1621739699.jpg" width="300">     | 深灰色双排扣毛海军大衣    | 大衣  |
-| <img src="/images/clothes/Long/1791290031452--393235633.jpg" width="300">     | 卡其色三防冲锋衣（内有羽绒） | 冲锋衣 |
-| <img src="/images/clothes/Long/1791290132641--1038448374.jpg" width="300">    | 白色半拉链摇粒绒衣      | 抓绒衣 |
-| <img src="/images/clothes/Long/1791291513134-1161430549.jpg" width="300">     | 米白色高领麻花针织毛衣    | 毛衣  |
-| <img src="/images/clothes/Long/1791301371185-361505418.jpg" width="300">      | 藏青色圆领横纹针织毛衣    | 毛衣  |
-| <img src="/images/clothes/Long/tb_image_share_1791290380468.png" width="300"> | 工装外套式衬衫        | 外套  |
-| <img src="/images/clothes/Long/tb_image_share_1794129986929.png" width="300"> | 梭织防晒薄外套        | 防晒衣 |
+| 图片                                                              | 品名                         | 类型   |
+|-------------------------------------------------------------------|------------------------------|--------|
+| ![[images/clothes/Long/tb_image_share_1794131382603-600.jpg|300]] | 灰色长袖图案薄T              | T      |
+| ![[images/clothes/Long/IMG20261108183956-studio-600.jpg|300]]     | 黑色连帽拉链卫衣（黄色内衬） | 卫衣   |
+| ![[images/clothes/Long/IMG20261108175512-studio-600.jpg|300]]     | 炭灰色户外冲锋夹克           | 夹克   |
+| ![[images/clothes/Long/1791289201808--925656130-600.jpg|300]]     | 黑色长款针织开衫             | 开衫   |
+| ![[images/clothes/Long/1791289411519-1333854895-600.jpg|300]]     | 黑色休闲西装外套             | 西装   |
+| ![[images/clothes/Long/1791289589716--1862443055-600.jpg|300]]    | 黑色棒球夹克（白色条纹）     | 夹克   |
+| ![[images/clothes/Long/1791289626522-301185029-600.jpg|300]]      | 卡其色绗羽绒马甲             | 马甲   |
+| ![[images/clothes/Long/IMG20261108215312-studio-600.jpg|300]]     | 白色连帽卫衣(薄款非加绒)     | 卫衣   |
+| ![[images/clothes/Long/1791289881734-923598237-600.jpg|300]]      | 白色磨毛法兰绒衬衫           | 衬衫   |
+| ![[images/clothes/Long/1791289957863-1826028682-600.jpg|300]]     | 白色长袖牛津纺衬衫           | 衬衫   |
+| ![[images/clothes/Long/1791289980409-2046345433-600.jpg|300]]     | 迷彩印花防晒皮肤衣           | 防晒衣 |
+| ![[images/clothes/Long/1791290005942-1621739699-600.jpg|300]]     | 深灰色双排扣毛海军大衣       | 大衣   |
+| ![[images/clothes/Long/1791290031452--393235633-600.jpg|300]]     | 卡其色三防冲锋衣（内有羽绒） | 冲锋衣 |
+| ![[images/clothes/Long/1791290132641--1038448374-600.jpg|300]]    | 白色半拉链摇粒绒衣           | 抓绒衣 |
+| ![[images/clothes/Long/1791291513134-1161430549-600.jpg|300]]     | 米白色高领麻花针织毛衣       | 毛衣   |
+| ![[images/clothes/Long/1791301371185-361505418-600.jpg|300]]      | 藏青色圆领横纹针织毛衣       | 毛衣   |
+| ![[images/clothes/Long/tb_image_share_1791290380468-600.jpg|300]] | 工装外套式衬衫               | 外套   |
+| ![[images/clothes/Long/tb_image_share_1794129986929-600.jpg|300]] | 梭织防晒薄外套               | 防晒衣 |
 
 The series:
 [[My closets, T and Shorts]]
