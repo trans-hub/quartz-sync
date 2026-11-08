@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T09:35:46.507Z
-published: 2026-11-08T09:35:46.507Z
+modified: 2026-11-08T09:36:10.929Z
+published: 2026-11-08T09:36:10.929Z
 ---
 
 | 图片                                                                            | 品名             | 类型  |
@@ -23,7 +23,7 @@ published: 2026-11-08T09:35:46.507Z
 | <img src="/images/clothes/Long/1791291513134-1161430549.jpg" width="300">     | 米白色高领麻花针织毛衣    | 毛衣  |
 | <img src="/images/clothes/Long/1791301371185-361505418.jpg" width="300">      | 藏青色圆领横纹针织毛衣    | 毛衣  |
 | <img src="/images/clothes/Long/tb_image_share_1791290380468.png" width="300"> | 工装外套式衬衫        | 外套  |
-| ![[images/clothes/Long/tb_image_share_1794129986929.png]] | 梭织防晒薄外套        | 防晒衣 |
+| <img src="/images/clothes/Long/tb_image_share_1794129986929.png" width="300"> | 梭织防晒薄外套        | 防晒衣 |
 
 The series:
 [[My closets, T and Shorts]]
