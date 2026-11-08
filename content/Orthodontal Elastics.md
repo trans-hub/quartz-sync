@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T16:15:10.201Z
-modified: 2026-10-07T12:56:32.727Z
-published: 2026-10-07T12:56:32.727Z
+modified: 2026-11-08T09:21:10.175Z
+published: 2026-11-08T09:21:10.175Z
 tags:
   - statistics
   - orthodontics
+  - dental
 ---
 
 # Fox的品控问题

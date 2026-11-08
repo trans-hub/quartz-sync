@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to my Quartz garden
 created: 2026-10-06T16:15:09.629Z
-modified: 2026-11-06T10:33:04.849Z
-published: 2026-11-06T10:33:04.849Z
+modified: 2026-11-08T08:41:52.859Z
+published: 2026-11-08T08:41:52.859Z
 ---
 
 这是你的知识库入口。点击下方链接进入各主题：
@@ -13,6 +13,12 @@ published: 2026-11-06T10:33:04.849Z
 - [[Shopping knowledges]] 复购好物心得
 - [[Useful Linux commands]] 常用 Linux 命令速查
 - [Piano tuning](https://muse.onher.top/piano/) 钢琴调律方法
+
+## My Closet 系列
+
+- [[My closets, Trousers]]
+- [[My closets, T and Shorts]]
+- [[My closets, Long Tops]]
 
 ## 使用提示
 
