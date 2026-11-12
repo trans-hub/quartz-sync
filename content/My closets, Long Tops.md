@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-06T16:15:09.757Z
-modified: 2026-11-08T14:42:25.102Z
-published: 2026-11-08T14:42:25.102Z
+modified: 2026-11-12T16:21:50.180Z
+published: 2026-11-12T16:21:50.180Z
 ---
 
 | 图片                                                          | 品名                         | 类型   |
@@ -25,6 +25,7 @@ published: 2026-11-08T14:42:25.102Z
 | ![[images/clothes/Long/1791301371185-361505418-600.jpg]]      | 藏青色圆领横纹针织毛衣       | 毛衣   |
 | ![[images/clothes/Long/tb_image_share_1791290380468-600.jpg]] | 工装外套式衬衫               | 外套   |
 | ![[images/clothes/Long/tb_image_share_1794129986929-600.jpg]] | 梭织防晒薄外套               | 防晒衣 |
+| ![[images/clothes/Long/IMG20261112212817-studio-600.jpg]]     | 深藏青色 PEANUTS 联名冲锋衣  | 冲锋衣 |
 
 The series:
 [[My closets, T and Shorts]]
