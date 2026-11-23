@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-11-01T07:58:57.338Z
-modified: 2026-11-01T08:32:19.514Z
-published: 2026-11-01T08:32:19.514Z
+modified: 2026-11-23T10:34:34.265Z
+published: 2026-11-23T10:34:34.265Z
+tags:
+  - linux
 ---
 
 ## After pipeline
@@ -22,3 +24,13 @@ sed -n '45,50p'
 ```
 
 `-n` 关闭默认输出，只输出 `p` 指定的行；`'45,50'` 为行号范围。
+
+## 网络
+
+### 端口扫描
+
+```bash
+nc -vz <ip> <port>
+```
+
+-v verbose，-z检查完结束，不干别的了
