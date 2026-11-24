@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-11-01T07:58:57.338Z
-modified: 2026-11-23T10:34:34.265Z
-published: 2026-11-23T10:34:34.265Z
+modified: 2026-11-23T13:54:01.313Z
+published: 2026-11-23T13:54:01.313Z
 tags:
   - linux
 ---
 
-## After pipeline
+## After pipeline |
 
 ### grep 搜索文件内容
 
